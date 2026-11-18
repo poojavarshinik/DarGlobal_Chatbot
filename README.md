@@ -12,15 +12,6 @@ pinned: false
 
 A Streamlit chatbot that answers questions about **DarGlobal** (luxury real estate developer) and **Wasalt** (Saudi real estate portal). It has two modes: a local **Knowledge Base** built from public pages, and a web-backed **Live Search**.
 
-- **Live demo:** <LIVE_URL>
-- **Source code:** <GITHUB_URL>
-
-## Try these questions
-
-- Who is the founder and CEO of DarGlobal?
-- List DarGlobal's projects in Oman.
-- Who owns Wasalt, and what is the Wasalt auction licence?
-- What is DarGlobal's current share price? (tests Live Search and the "I don't know" behaviour)
 
 ## Architecture
 
